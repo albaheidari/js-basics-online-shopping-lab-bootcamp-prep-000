@@ -10,6 +10,9 @@ function setCart(c) {
 }
 
 function addToCart(item) {
+  let itemName = [];
+  let itemPrice = [];
+  for( var i = 0; i < 0; i++)
  // write your code here
 }
 
